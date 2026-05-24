@@ -11,12 +11,13 @@ const apps = [
     category: "Event tech",
   },
   {
-    name: "Coming soon",
-    tagline: "Another simple tool, in the works",
-    description: "Something new is being built. Check back soon.",
-    url: null,
-    status: "soon" as const,
-    category: null,
+    name: "LookAhead",
+    tagline: "See your next 120 days of cash flow — clearly",
+    description:
+      "Connect your accounts and get a rolling forecast of what's coming in and going out. Know your safe-to-spend before you spend it.",
+    url: "https://lookahead.janglemonkey.com",
+    status: "live" as const,
+    category: "Personal finance",
   },
   {
     name: "Coming soon",
